@@ -1,2 +1,2 @@
 bundle install
-jekyll serve --drafts
+jekyll serve --drafts --incremental
