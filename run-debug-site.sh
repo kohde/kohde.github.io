@@ -1,2 +1,1 @@
-bundle install
-jekyll serve --drafts --incremental
+jekyll serve --drafts --incremental --livereload --config _config.yml
